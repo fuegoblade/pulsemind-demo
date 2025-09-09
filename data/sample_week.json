@@ -1,0 +1,51 @@
+[
+  {
+    "date": "2025-08-25",
+    "hr_rest": 52,
+    "rmssd": 58,
+    "sleep_hours": 7.2,
+    "load": 320
+  },
+  {
+    "date": "2025-08-26",
+    "hr_rest": 51,
+    "rmssd": 61,
+    "sleep_hours": 7.8,
+    "load": 280
+  },
+  {
+    "date": "2025-08-27",
+    "hr_rest": 53,
+    "rmssd": 55,
+    "sleep_hours": 6.9,
+    "load": 420
+  },
+  {
+    "date": "2025-08-28",
+    "hr_rest": 52,
+    "rmssd": 57,
+    "sleep_hours": 7.1,
+    "load": 360
+  },
+  {
+    "date": "2025-08-29",
+    "hr_rest": 50,
+    "rmssd": 63,
+    "sleep_hours": 8.1,
+    "load": 240
+  },
+  {
+    "date": "2025-08-30",
+    "hr_rest": 49,
+    "rmssd": 65,
+    "sleep_hours": 8.3,
+    "load": 190
+  },
+  {
+    "date": "2025-08-31",
+    "hr_rest": 51,
+    "rmssd": 59,
+    "sleep_hours": 7.5,
+    "load": 310
+  }
+]
