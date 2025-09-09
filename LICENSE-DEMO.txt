@@ -1,0 +1,9 @@
+PulseMind™ Demo License (Restricted)
+
+This package is provided for evaluation only.
+- No redistribution outside of your organization.
+- No reverse engineering or benchmarking publication.
+- No use in production, medical, or commercial settings.
+- All rights reserved by Fuego & Blade™.
+
+For licensing, contact: richardzak@fuegoblade.com
